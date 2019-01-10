@@ -3,7 +3,7 @@ Problems from projecteuler.net
 
 I chose problems 10, 34 and 46 to cover variety in complexity.
  
-Problem 10
+Problem 10:
 Find the sum of all prime numbers below two million.
 
 I chose this problem as it was suggested as a good starting point. 
@@ -19,7 +19,7 @@ Sum of all prime numbers below two million: 142913828922
 Execution time: 2500 ms
  
 
-Problem 34
+Problem 34:
 Find the sum of all curious numbers.
 
 Algorithm:
@@ -34,7 +34,7 @@ Sum of all curious numbers: 40730
 Execution time: 8 ms
  
 
-Problem 46
+Problem 46:
 Find the smallest odd composite that cannot be written as the sum of a prime and twice a square.
 
 
